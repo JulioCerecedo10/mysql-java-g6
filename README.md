@@ -1,2 +1,2 @@
-# mysql-java-g6
+# mysql-java
 JAVA CON MYSQL
